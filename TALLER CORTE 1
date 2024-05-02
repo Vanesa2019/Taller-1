@@ -1,0 +1,56 @@
+<p>&nbsp;</p>
+<p>MODAVA SPAS</p>
+<header>
+    <h5>MODAVA SPAS</h5>
+    <img src="https://s4.aconvert.com/convert/p3r68-cdx67/au99j-au9ti.jpg" alt="Logo de MODAVA SPAS" />
+</header>
+<div class="summary">
+    <h2><span style="background-color: #ff99cc;">Resumen del Proyecto</span></h2>
+    <p><strong>MODAVA</strong> es un software que ayuda a optimizar la asignación de citas para servicios
+        estéticos, en colaboración con empresas de manicura y otros servicios similares. Este software
+        permite que estas empresas mejoren su eficiencia al asignar citas de manera adecuada y organizada, optimizando
+        la distribución de recursos y la asignando los profesionales correspondientes.</p>
+</div>
+<div class="objectives">
+    <h2><span style="background-color: #ff99cc;">Objetivos Generales</span></h2>
+    <ul>
+        <li>Digitalizar y optimizar los procesos de reserva, agenda y gestión de clientes.</li>
+        <li>Mejorar la experiencia del usuario ofreciendo una plataforma intuitiva y atractiva.</li>
+        <li>Aumentar la visibilidad y alcance de la empresa mediante una presencia online sólida.</li>
+    </ul>
+</div>
+<div class="technologies">
+    <h2><span style="background-color: #ff99cc;">Tecnologías Utilizadas</span></h2>
+    <p><span style="background-color: #ffff99;"><strong>Java (o Python):</strong></span> Estos lenguajes de
+        programaci&oacute;n son robustos, ampliamente utilizados en el desarrollo de aplicaciones empresariales y tienen
+        una gran cantidad de bibliotecas y herramientas disponibles para el desarrollo rápido y eficiente.</p>
+    <p><span style="background-color: #ffff99;"><strong>Spring Boot (o Django):</strong></span>Spring Boot es un
+        framework de Java que facilita el desarrollo rápido de aplicaciones empresariales, mientras que Django es
+        un framework de Python que ofrece un desarrollo rápido y limpio para aplicaciones web. Ambos son ideales
+        para construir la lógica del negocio, gestionar las citas, los usuarios y generar informes</p>
+    <p><span style="background-color: #ffff99;"><strong>MySQL (o PostgreSQL):</strong></span>Una base de datos
+        relacional como MySQL o PostgreSQL sería esencial para almacenar datos críticos como
+        información de clientes, citas programadas, historiales de citas, etc. Esto permitiría un acceso
+        rápido y seguro a los datos, así como la generación de informes detallados sobre ingresos y
+        ocupación.</p>
+</div>
+<footer>
+    <div class="block">
+        <h3><span style="color: #ffff99;">Contacto</span></h3>
+        <p>3107808996<img src="https://s4.aconvert.com/convert/p3r68-cdx67/a10f9-kh5vv.png" alt="Logo Whatsapp"
+                width="16" height="16" /></p>
+        <p>Correo: vanesaapuello21@gmail.com</p>
+    </div>
+    <div class="block">
+        <h3><span style="color: #ffff99;">CEO</span></h3>
+        <p>M&oacute;nica Daza</p>
+        <p>Daniel Silva</p>
+        <p>Vanesa Puello</p>
+    </div>
+    <div class="block">
+        <h3><span style="color: #ffff99;">Universidad de Sanbuenaventura</span></h3>
+        <img src="https://s4.aconvert.com/convert/p3r68-cdx67/ass6h-lhnpg.jpg"
+            alt="Logo de la Universidad de San Buenaventura" width="78" height="78" />
+    </div>
+    <div class="clearfix">&nbsp;</div>
+</footer>
